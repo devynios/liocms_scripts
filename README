@@ -1,0 +1,7 @@
+cms startup scripts for liox
+
+  /usr/local/bin/liocms.sh
+  /etc/init.d/liocms
+
+https://github.com/lmio/cms
+https://github.com/lmio/liox
